@@ -15,7 +15,7 @@ background: bg107fixed
 mapIcon: LostHexIcon
 music:
   download:
-    - https://drive.usercontent.google.com/download?id=1QYfClZqUpGIJ0rAIwYNv-CGvXR8S50tV&export=download&confirm=1
+  - https://drive.usercontent.google.com/download?id=1QYfClZqUpGIJ0rAIwYNv-CGvXR8S50tV&export=download&confirm=1
   map: 
   - TheLostMedley.50 
   stock: 
