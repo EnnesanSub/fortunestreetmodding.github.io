@@ -14,8 +14,9 @@ frbFiles:
 background: bg107fixed
 mapIcon: LostHexIcon
 music:
-  download:
-  - https://drive.usercontent.google.com/download?id=1QYfClZqUpGIJ0rAIwYNv-CGvXR8S50tV&export=download&confirm=1
+  download: 
+    - https://nikkums.io/cswt/BGM/LostHex.music.zip
+    - https://drive.google.com/uc?export=download&id=1elBySpZrZtIacc0QwnmVbgj9hMm4rK_c&confirm=1
   map: 
   - TheLostMedley.50 
   stock: 
@@ -45,17 +46,17 @@ music:
   bankruptcy:
   - GameOver.50
   roundTheBlocks:
-  - TilttheMachine.50
+  - A_TilttheMachine.50
   roundTheBlocksWin:
   - ItemGetLevel1.50
   roundTheBlocks777:
   - StageClear(Synth).50
   memoryBlock:
-  - TilttheMachine.50
+  - A_TilttheMachine.50
   dartOfGold:
-  - CircusCaravan.50
+  - A_CircusCaravan.50
   slurpodromeSelect: 
-  - ChaoTransporter.50
+  - A_ChaoTransporter.50
   slurpodromeStart:
   - Hurryup(Ready).50
   slurpodromeRace:
