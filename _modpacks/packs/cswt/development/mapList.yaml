@@ -1,9 +1,6 @@
 backgrounds: backgrounds.yml
 0:
   0:
-    LostHex.zip:
-      urls:
-      - https://nikkums.io/cswt/Maps/LostHex.zip
     FlowerCupTournament.zip:
       urls:
       - https://nikkums.io/cswt/Maps/FlowerCupTournament.zip
@@ -19,10 +16,10 @@ backgrounds: backgrounds.yml
     lumaslanding.zip:
       urls:
       - https://nikkums.io/cswt/Maps/lumaslanding.zip
-  1:
     Mindgames.zip:
       urls:
       - https://nikkums.io/cswt/Maps/Mindgames.zip
+  1:
     smg2_spacestorm.zip:
       urls:
       - https://nikkums.io/cswt/Maps/smg2_spacestorm.zip
@@ -32,6 +29,7 @@ backgrounds: backgrounds.yml
     arrowhead.zip:
       urls:
       - https://nikkums.io/cswt/Maps/arrowhead.zip
+    placeholder.zip:
     placeholder.zip:
     placeholder.zip:
   2:
