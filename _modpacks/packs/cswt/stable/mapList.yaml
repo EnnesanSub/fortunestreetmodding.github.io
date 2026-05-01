@@ -228,9 +228,6 @@ backgrounds: backgrounds.yml
     mp9_magmine.zip:
       urls:
       - https://nikkums.io/cswt/Maps/mp9_magmine.zip
-    MidgarTransit.zip:
-      urls:
-      - https://nikkums.io/cswt/Maps/MidgarTransit.zip
     pacparty_mirageoasis.zip:
       urls:
       - https://nikkums.io/cswt/Maps/pacparty_mirageoasis.zip
