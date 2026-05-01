@@ -219,6 +219,9 @@ backgrounds: backgrounds.yml
       urls:
       - https://nikkums.io/cswt/Maps/KoopaTycoonTown.zip
   2:
+    LostHex.zip:
+      urls:
+      - https://nikkums.io/cswt/Maps/LostHex.zip
     luigismansion.zip:
       urls:
       - https://nikkums.io/cswt/Maps/luigismansion.zip
