@@ -24,13 +24,13 @@ music:
   ventureCards:
   - MagentaRhythm.50
   auction:
-  - Tails'Lab.50
+  - Tails_Lab.50
   targetMet: 
   - BossRushes.50
   win:
   - StageClear.50
   badVentureCard: 
-  - ItemGet(Sad).50
+  - ItemGet_Sad.50
   takeAbreak:
   - 3DSMenuJingle.50
   promotionMii: 
@@ -50,7 +50,7 @@ music:
   roundTheBlocksWin:
   - ItemGetLevel1.50
   roundTheBlocks777:
-  - StageClear(Synth).50
+  - StageClear_Synth.50
   memoryBlock:
   - A_TilttheMachine.50
   dartOfGold:
@@ -58,9 +58,9 @@ music:
   slurpodromeSelect: 
   - A_ChaoTransporter.50
   slurpodromeStart:
-  - Hurryup(Ready).50
+  - Hurryup_Ready.50
   slurpodromeRace:
-  - Hurryup(Race).50
+  - Hurryup_Race.50
   slurpodromeWin:
   - ChaoRaceGoal.50
 tourMode:
