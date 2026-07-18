@@ -240,6 +240,9 @@ backgrounds: backgrounds.yml
     NLA.zip:
       urls:
       - https://nikkums.io/cswt/Maps/NLA.zip
+    olympusavenue.zip:
+      urls:
+      - https://nikkums.io/cswt/Maps/olympusavenue.zip
     OnionOcean.zip:
       urls:
       - https://nikkums.io/cswt/Maps/OnionOcean.zip
