@@ -197,9 +197,6 @@ backgrounds: backgrounds.yml
     mandala.zip:
       urls:
       - https://nikkums.io/cswt/Maps/mandala.zip
-    Mazeana.zip:
-      urls:
-      - https://nikkums.io/cswt/Maps/Mazeana.zip
     HighRise.zip:
       urls:
       - https://nikkums.io/cswt/Maps/HighRise.zip
@@ -234,6 +231,9 @@ backgrounds: backgrounds.yml
     mp9_magmine.zip:
       urls:
       - https://nikkums.io/cswt/Maps/mp9_magmine.zip
+    Mazeana.zip:
+      urls:
+      - https://nikkums.io/cswt/Maps/Mazeana.zip
     pacparty_mirageoasis.zip:
       urls:
       - https://nikkums.io/cswt/Maps/pacparty_mirageoasis.zip
